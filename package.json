@@ -10,5 +10,12 @@
   },
   "devDependencies": {
     "gulp": "^3.9.1"
+  },
+  "xo": {
+    "esnext": true,
+    "rules": {
+      "brace-style": "off",
+      "comma-dangle": "off"
+    }
   }
 }

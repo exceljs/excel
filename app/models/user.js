@@ -4,7 +4,9 @@ class User
 {
 	constructor()
 	{
-		//
+		this.schema = {
+			username: String
+		};
 	}
 }
 

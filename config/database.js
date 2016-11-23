@@ -43,7 +43,7 @@ module.exports = {
 		**/
 
 		mongodb: {
-			driver: 'mongodb',
+			driver: 'mongodb'
 			//
 		},
 
